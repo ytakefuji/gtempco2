@@ -18,3 +18,7 @@ For example, 1978-03 indicates March 1978 when NOAA started the measurement of t
 
 $ gtempco2
 
+The system will ask the start-date and end-date. The result will be shown as follows.
+
+<img src= height= width=>
+
