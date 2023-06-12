@@ -16,9 +16,17 @@ The format of them is as follows.
 
 For example, 1978-03 indicates March 1978 when NOAA started the measurement of the global co2.
 
+<pre>
 $ gtempco2
+enter start_date: e.g. 1960-04
+co2 measurement started from 1978-03
+yyyy-mo: 1960-06
+enter end_date: e.g. 2023-04
+yyyy-mo: 1965-06
+start_date= 1960-06 end_date= 1965-06
+</pre>
 
 The system will ask the start-date and end-date. The result will be shown as follows.
 
-<img src= height= width=>
+<img src='https://github.com/ytakefuji/gtempco2/blob/main/1960-06_1965-06.png' height=450 width=600>
 
