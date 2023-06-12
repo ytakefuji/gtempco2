@@ -14,7 +14,7 @@ To run gtempco2, the user-specified time period such as start-date and end-date 
 
 The format of them is as follows.
 
-For example, 1978-03 indicates March 1958 when NOAA started the measurement of the global co2.
+For example, 1958-03 indicates March 1958 when NOAA started the measurement of the global co2.
 
 <pre>
 $ gtempco2
