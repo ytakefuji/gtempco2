@@ -28,5 +28,5 @@ start_date= 1960-06 end_date= 1965-06
 
 The system will ask the start-date and end-date. The result will be shown and saved in the directory as follows.
 
-<img src='https://github.com/ytakefuji/gtempco2/blob/main/1960-06_1965-06.png' height=450 width=600>
+<img src='https://github.com/ytakefuji/gtempco2/raw/main/1960-06_1965-06.png' height=450 width=600>
 
