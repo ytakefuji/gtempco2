@@ -23,7 +23,7 @@ co2 measurement started from 1958-03
 yyyy-mo: 1958-03
 enter end_date: e.g. 2023-04
 yyyy-mo: 1965-03
-start_date= 1960-06 end_date= 1965-06
+start_date= 1958-03 end_date= 1965-03
 </pre>
 
 The system will ask the start-date and end-date. The result will be shown and saved in the directory as follows.
