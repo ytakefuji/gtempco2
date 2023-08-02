@@ -20,13 +20,13 @@ For example, 1958-03 indicates March 1958 when NOAA started the measurement of t
 $ gtempco2
 enter start_date: e.g. 1960-04
 co2 measurement started from 1958-03
-yyyy-mo: 1960-06
+yyyy-mo: 1958-03
 enter end_date: e.g. 2023-04
-yyyy-mo: 1965-06
+yyyy-mo: 1965-03
 start_date= 1960-06 end_date= 1965-06
 </pre>
 
 The system will ask the start-date and end-date. The result will be shown and saved in the directory as follows.
 
-<img src='https://github.com/ytakefuji/gtempco2/raw/main/1960-06_1965-06.png' height=450 width=600>
+<img src='https://github.com/ytakefuji/gtempco2/raw/main/1958-03_1965-03.png' height=450 width=600>
 
